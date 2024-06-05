@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll

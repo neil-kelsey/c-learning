@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/bin/Debug/net6.0/VariablesTestTwo
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/bin/Debug/net6.0/VariablesTestTwo.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/bin/Debug/net6.0/VariablesTestTwo.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/bin/Debug/net6.0/VariablesTestTwo.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/bin/Debug/net6.0/VariablesTestTwo.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/VariablesTestTwo.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/VariablesTestTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/VariablesTestTwo.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/VariablesTestTwo.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/VariablesTestTwo.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/VariablesTestTwo.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/refint/VariablesTestTwo.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/VariablesTestTwo.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/VariablesTestTwo.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTestTwo/VariablesTestTwo/obj/Debug/net6.0/ref/VariablesTestTwo.dll

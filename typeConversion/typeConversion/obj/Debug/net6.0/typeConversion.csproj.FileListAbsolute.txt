@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/bin/Debug/net6.0/typeConversion
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/bin/Debug/net6.0/typeConversion.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/bin/Debug/net6.0/typeConversion.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/bin/Debug/net6.0/typeConversion.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/bin/Debug/net6.0/typeConversion.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/typeConversion.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/typeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/typeConversion.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/typeConversion.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/typeConversion.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/typeConversion.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/refint/typeConversion.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/typeConversion.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/typeConversion.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversion/typeConversion/obj/Debug/net6.0/ref/typeConversion.dll

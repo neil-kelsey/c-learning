@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/bin/Debug/net6.0/typeConversionNonCompatible
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/bin/Debug/net6.0/typeConversionNonCompatible.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/bin/Debug/net6.0/typeConversionNonCompatible.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/bin/Debug/net6.0/typeConversionNonCompatible.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/bin/Debug/net6.0/typeConversionNonCompatible.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/typeConversionNonCompatible.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/typeConversionNonCompatible.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/typeConversionNonCompatible.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/typeConversionNonCompatible.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/typeConversionNonCompatible.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/typeConversionNonCompatible.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/refint/typeConversionNonCompatible.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/typeConversionNonCompatible.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/typeConversionNonCompatible.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/typeConversionNonCompatible/typeConversionNonCompatible/obj/Debug/net6.0/ref/typeConversionNonCompatible.dll

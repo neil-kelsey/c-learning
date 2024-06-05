@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/bin/Debug/net6.0/VariablesTest
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/bin/Debug/net6.0/VariablesTest.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/bin/Debug/net6.0/VariablesTest.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/bin/Debug/net6.0/VariablesTest.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/bin/Debug/net6.0/VariablesTest.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/VariablesTest.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/VariablesTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/VariablesTest.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/VariablesTest.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/VariablesTest.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/VariablesTest.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/refint/VariablesTest.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/VariablesTest.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/VariablesTest.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/VariablesTest/VariablesTest/obj/Debug/net6.0/ref/VariablesTest.dll

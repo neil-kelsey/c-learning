@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/bin/Debug/net6.0/ClassesFundamentals
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/bin/Debug/net6.0/ClassesFundamentals.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/bin/Debug/net6.0/ClassesFundamentals.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/bin/Debug/net6.0/ClassesFundamentals.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/bin/Debug/net6.0/ClassesFundamentals.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ClassesFundamentals.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ClassesFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ClassesFundamentals.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ClassesFundamentals.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ClassesFundamentals.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ClassesFundamentals.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/refint/ClassesFundamentals.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ClassesFundamentals.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ClassesFundamentals.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/ClassesFundamentals/ClassesFundamentals/obj/Debug/net6.0/ref/ClassesFundamentals.dll

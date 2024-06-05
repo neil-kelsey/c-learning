@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll

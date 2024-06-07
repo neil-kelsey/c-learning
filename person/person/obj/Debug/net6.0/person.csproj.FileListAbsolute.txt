@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/bin/Debug/net6.0/person
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/bin/Debug/net6.0/person.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/bin/Debug/net6.0/person.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/bin/Debug/net6.0/person.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/bin/Debug/net6.0/person.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/person.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/person.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/person.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/person.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/person.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/refint/person.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/person.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/person.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/person/person/obj/Debug/net6.0/ref/person.dll

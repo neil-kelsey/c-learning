@@ -9,7 +9,7 @@ namespace CSharpFundamentals
             // value types - there value is copied
             var a = 10;
             var b = a; // At this point b = 10 we have copied the value
-            b++;
+            b++; // Changing B does not have an impact on A
             Console.WriteLine(string.Format("a: {0}, b:{1}", a, b));
             
             // array is a reference type

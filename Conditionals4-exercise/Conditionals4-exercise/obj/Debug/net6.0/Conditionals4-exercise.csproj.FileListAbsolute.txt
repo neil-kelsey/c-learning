@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/bin/Debug/net6.0/Conditionals4-exercise
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/bin/Debug/net6.0/Conditionals4-exercise.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/bin/Debug/net6.0/Conditionals4-exercise.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/bin/Debug/net6.0/Conditionals4-exercise.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/bin/Debug/net6.0/Conditionals4-exercise.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/Conditionals4-exercise.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/Conditionals4-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/Conditionals4-exercise.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/Conditionals4-exercise.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/Conditionals4-exercise.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/Conditionals4-exercise.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/refint/Conditionals4-exercise.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/Conditionals4-exercise.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/Conditionals4-exercise.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Conditionals4-exercise/Conditionals4-exercise/obj/Debug/net6.0/ref/Conditionals4-exercise.dll

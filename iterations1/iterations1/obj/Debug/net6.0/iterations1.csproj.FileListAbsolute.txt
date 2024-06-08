@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/bin/Debug/net6.0/iterations1
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/bin/Debug/net6.0/iterations1.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/bin/Debug/net6.0/iterations1.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/bin/Debug/net6.0/iterations1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/bin/Debug/net6.0/iterations1.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/iterations1.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/iterations1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/iterations1.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/iterations1.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/iterations1.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/iterations1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/refint/iterations1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/iterations1.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/iterations1.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/iterations1/iterations1/obj/Debug/net6.0/ref/iterations1.dll

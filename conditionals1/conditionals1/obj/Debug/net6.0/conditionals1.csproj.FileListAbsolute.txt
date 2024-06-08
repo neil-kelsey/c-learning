@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/bin/Debug/net6.0/conditionals1
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/bin/Debug/net6.0/conditionals1.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/bin/Debug/net6.0/conditionals1.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/bin/Debug/net6.0/conditionals1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/bin/Debug/net6.0/conditionals1.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/conditionals1.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/conditionals1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/conditionals1.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/conditionals1.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/conditionals1.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/conditionals1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/refint/conditionals1.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/conditionals1.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/conditionals1.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/conditionals1/conditionals1/obj/Debug/net6.0/ref/conditionals1.dll

@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/bin/Debug/net6.0/ControlFlow-exercises
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/bin/Debug/net6.0/ControlFlow-exercises.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/bin/Debug/net6.0/ControlFlow-exercises.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/bin/Debug/net6.0/ControlFlow-exercises.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/bin/Debug/net6.0/ControlFlow-exercises.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ControlFlow-exercises.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ControlFlow-exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ControlFlow-exercises.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ControlFlow-exercises.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ControlFlow-exercises.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ControlFlow-exercises.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/refint/ControlFlow-exercises.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ControlFlow-exercises.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ControlFlow-exercises.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/ControlFlow-exercises/ControlFlow-exercises/obj/Debug/net6.0/ref/ControlFlow-exercises.dll

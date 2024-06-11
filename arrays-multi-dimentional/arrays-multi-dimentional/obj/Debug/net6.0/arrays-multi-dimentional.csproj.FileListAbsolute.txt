@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/bin/Debug/net6.0/arrays-multi-dimentional
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/bin/Debug/net6.0/arrays-multi-dimentional.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/bin/Debug/net6.0/arrays-multi-dimentional.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/bin/Debug/net6.0/arrays-multi-dimentional.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/bin/Debug/net6.0/arrays-multi-dimentional.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/arrays-multi-dimentional.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/arrays-multi-dimentional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/arrays-multi-dimentional.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/arrays-multi-dimentional.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/arrays-multi-dimentional.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/arrays-multi-dimentional.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/refint/arrays-multi-dimentional.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/arrays-multi-dimentional.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/arrays-multi-dimentional.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/arrays-multi-dimentional/arrays-multi-dimentional/obj/Debug/net6.0/ref/arrays-multi-dimentional.dll

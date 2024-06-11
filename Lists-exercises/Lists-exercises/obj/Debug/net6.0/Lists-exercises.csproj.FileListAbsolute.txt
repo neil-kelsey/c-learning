@@ -1,0 +1,15 @@
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/bin/Debug/net6.0/Lists-exercises
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/bin/Debug/net6.0/Lists-exercises.deps.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/bin/Debug/net6.0/Lists-exercises.runtimeconfig.json
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/bin/Debug/net6.0/Lists-exercises.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/bin/Debug/net6.0/Lists-exercises.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/Lists-exercises.csproj.AssemblyReference.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/Lists-exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/Lists-exercises.AssemblyInfoInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/Lists-exercises.AssemblyInfo.cs
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/Lists-exercises.csproj.CoreCompileInputs.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/Lists-exercises.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/refint/Lists-exercises.dll
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/Lists-exercises.pdb
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/Lists-exercises.genruntimeconfig.cache
+/Users/neil.kelsey@avalara.com/Documents/Projects/c-learning/c-learning/Lists-exercises/Lists-exercises/obj/Debug/net6.0/ref/Lists-exercises.dll
